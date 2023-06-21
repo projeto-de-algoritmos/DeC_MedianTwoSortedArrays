@@ -12,12 +12,13 @@ D&C_MedianTwoSortedArrays
 | 20/1000379  |  Leonardo Milomes Vitoriano |
 
 ## Sobre 
-A dupla decidiu realizar no total 4 exercícios sobre o conteúdo de **Dividir e Conquistar**, sendo: 2 exercícios do [LeetCode](https://leetcode.com/problemset/all/), 1 exercício do [codeforces](https://codeforces.com/) e 1 do [atCoder](https://atcoder.jp/) que são sites com exercícios de programação com juízes online.
+A dupla decidiu realizar no total 3 exercícios sobre o conteúdo de **Dividir e Conquistar**, sendo: 2 exercícios do [LeetCode](https://leetcode.com/problemset/all/), 1 exercício do [UVA](https://onlinejudge.org/) que são sites com exercícios de programação com juízes online.
 
-Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
+Os enunciados dos 3 exercícios podem ser encontrados na listagem abaixo:
 
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [Search 2d Matrix ii](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- [498-bis](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1209)
 <!-- - []()
 - []() -->
 
