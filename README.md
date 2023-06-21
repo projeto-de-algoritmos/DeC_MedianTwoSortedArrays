@@ -32,6 +32,11 @@ Na figura 2, encontra-se a submissão aceita do exercício Search 2d Matrix ii<b
 <img src="assets/Search2dMatrix.png">
 <p align="center">Figura 2 - Search 2d Matrix ii.</p>
 
+
+Na figura 3, encontra-se a submissão aceita do exercício Search 2d Matrix ii<br>
+<img src="assets/482-bis.png">
+<p align="center">Figura 2 - Search 2d Matrix ii.</p>
+
 <!-- Na figura 3, encontra-se a submissão aceita do exercício Ciel and Dancing:
 ![Na figura 3, encontra-se a submissão aceita do exercício Ciel and Dancing](./assets/CielandDancing.png)
 <p align="center">Figura 3 - Ciel and Dancing.</p>
