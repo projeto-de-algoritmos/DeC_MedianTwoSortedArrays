@@ -33,7 +33,7 @@ Na figura 2, encontra-se a submissão aceita do exercício Search 2d Matrix ii<b
 <p align="center">Figura 2 - Search 2d Matrix ii.</p>
 
 
-Na figura 3, encontra-se a submissão aceita do exercício Search 2d Matrix ii<br>
+Na figura 3, encontra-se a submissão aceita do exercício 498-bis<br>
 <img src="assets/482-bis.png">
 <p align="center">Figura 2 - Search 2d Matrix ii.</p>
 
