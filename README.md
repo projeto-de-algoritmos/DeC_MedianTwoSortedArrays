@@ -102,5 +102,5 @@ Pronto! O código está rodando e os exercícios podem ser testados.
 ## Vídeo
 
 O vídeo explicando o algoritmo e o funcionamento dele, pode ser encontrado no link a seguir:
-- [Vídeo](https://www.youtube.com/watch?v=zWSU17OFwvo)
+- [Vídeo](assets/videoDeC.mp4)
 
